@@ -1,0 +1,9 @@
+CREATE DATABASE STRUTS_LOGIN;
+
+CREATE TABLE `STRUTS_LOGIN`.`LOGIN` (
+   `userNAME` VARCHAR( 10 ) NOT NULL ,
+   `password` VARCHAR( 10 ) NOT NULL ,
+   PRIMARY KEY ( `userNAME` )
+) ENGINE = InnoDB;
+
+INSERT INTO `STRUTS_LOGIN`.`LOGIN` (userNAME, password) VALUES (‘jaygupta’, ‘password’);
