@@ -1,6 +1,7 @@
-# CZ3002 Advanced Software Engineering
-## School of Computer Science and Engineering
-### Assignment 2 - Login with Struts & MySQL
+# Assignment 2 - Login with Apache Struts & MySQL
+> CZ3002 Advanced Software Engineering  
+> School of Computer Science and Engineering  
+> Nanyang Technological University, Singapore 
 
 ### Organization
 
