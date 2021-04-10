@@ -6,7 +6,7 @@
 ### Organization
 
 The code is primarily divided in 3 segments: Model (`LoginModel.jsp`), View (`index.jsp`, `Welcome.jsp`), and Controller (`LoginAction.jsp`). 
-For the Struts 2 Framework, a struts.xml file is made for configuration management. It maps all the actions to different routes as part of the wire-by-configuration feature.
+For the Struts 2 Framework, a `struts.xml` file is made for configuration management. It maps all the actions to different routes as part of the wire-by-configuration feature.
 
 ### Installation
 Make sure you have the following dependencies available:
