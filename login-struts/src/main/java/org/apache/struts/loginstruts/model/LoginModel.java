@@ -46,9 +46,9 @@ public class LoginModel {
            ps.setString(1, this.getUsername());
            ps.setString(2, this.getPassword());
            
-           ResultSet rs = ps.executeQuery();
+           ResultSet resultSet = ps.executeQuery();
 
-           while (rs.next()) {
+           while (resultSet.next()) {
               return true;
            }
         } catch (Exception e) {
